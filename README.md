@@ -4,7 +4,7 @@ Prerequisites
 1.	PHP version: 8.1.10
 2.	MySQL version: 8.0.30
 3.	Composer installed
-4.	
+4.	redis
 Step 1: Download the Project
 
 i.Open your web browser and navigate to https://github.com/saiful199324/docTime.
@@ -23,6 +23,7 @@ Step 3: Install Dependencies
 1.	Make sure Composer is installed on your machine.
 2.	Navigate to the project directory.
 3.	Run composer update.
+4.	If redis not installed.download from https://github.com/tporadowski/redis/releases
 Step 4: Generate Laravel Key
 1.	Run the command to generate a new application key:
 php artisan key:generate
