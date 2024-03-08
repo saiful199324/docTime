@@ -4,18 +4,22 @@ Prerequisites
 1.	PHP version: 8.1.10
 2.	MySQL version: 8.0.30
 3.	Composer installed
+4.	
 Step 1: Download the Project
+
 i.Open your web browser and navigate to https://github.com/saiful199324/docTime.
 ii.Click on the "Code" button and choose the "Download ZIP" option.
 iii.Extract the downloaded ZIP file to your desired location.
 
 Step 2: Database Setup
+
 1.	Navigate to the db folder within the extracted project.
 2.	Locate the doctime.sql file.
 3.	Import the doctime.sql file into your MySQL database using phpMyAdmin or any MySQL database management tool.
    
 
 Step 3: Install Dependencies
+
 1.	Make sure Composer is installed on your machine.
 2.	Navigate to the project directory.
 3.	Run composer update.
@@ -41,6 +45,7 @@ i.Ensure that Redis is properly installed and configured.
 ii.Confirm that PHP, MySQL, and Redis extensions are enabled.
 
 Troubleshooting
+
 i.If any issues arise during the installation, refer to the Laravel documentation or the GitHub repository for assistance.
 ii.Check the Laravel and PHP compatibility.
 
