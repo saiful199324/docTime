@@ -5,6 +5,7 @@ Prerequisites
 2.	MySQL version: 8.0.30
 3.	Composer installed
 4.	redis
+
 Step 1: Download the Project
 
 i.Open your web browser and navigate to https://github.com/saiful199324/docTime.
@@ -39,6 +40,7 @@ php artisan serve
 Step 7: Access the Application
 1.	Open your web browser.
 2.	Enter either http://127.0.0.1:8000/people or http://localhost:8000/people in the address bar.
+   
 Step 8: Explore the Application
 You should now see the Customer List Data Table in your browser.
 Additional Notes
