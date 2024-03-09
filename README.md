@@ -53,9 +53,7 @@ Additional Notes
 
 Troubleshooting
 
-1.	If any issues arise during the installation, refer to the Laravel documentation or the GitHub repository for assistance.
-2.	Check the Laravel and PHP compatibility.
-3.	If any need please contact with me
+1.	If any issues arise during the installation, If any need please contact with me.
 
 
 
