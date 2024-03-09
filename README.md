@@ -47,8 +47,9 @@ Step 8: Explore the Application
 You should now see the Customer List Data Table in your browser.
 
 Additional Notes
-1.Ensure that Redis is properly installed and configured.
-2.Confirm that PHP, MySQL, and Redis extensions are enabled.
+1.	Ensure that Redis is properly installed and configured.
+2.	Confirm that PHP, MySQL, and Redis extensions are enabled.
+
 
 Troubleshooting
 
