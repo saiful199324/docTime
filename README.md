@@ -8,9 +8,10 @@ Prerequisites
 
 Step 1: Download the Project
 
-i.Open your web browser and navigate to https://github.com/saiful199324/docTime.
-ii.Click on the "Code" button and choose the "Download ZIP" option.
-iii.Extract the downloaded ZIP file to your desired location.
+1.	Open your web browser and navigate to https://github.com/saiful199324/docTime.
+2.	Click on the "Code" button and choose the "Download ZIP" option.
+3.	Extract the downloaded ZIP file to your desired location.
+
 
 Step 2: Database Setup
 
